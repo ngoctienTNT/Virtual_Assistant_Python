@@ -5,6 +5,6 @@ Các bạn phải cài thêm các thư viện python này vào project bằng c�
 1. Pyttsx3: pip install pyttsx3
 2. Speech Recognition: pip install SpeechRecognition
 3. Pyaudio: pip install PyAudio
-   *Nếu cài đặt Pyaudio lỗi thì các bạn có thể cài đặt bằng cách sau:
-   *- pip install pipwin
-   *- pipwin install pyaudio
+Nếu cài đặt Pyaudio lỗi thì các bạn có thể cài đặt bằng cách sau:
+  - pip install pipwin
+  - pipwin install pyaudio
